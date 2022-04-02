@@ -1,4 +1,4 @@
-# Prediction-using-Bayesian-Regression-Model
+# Prediction-of-movies-using-Bayesian-Regression-Model
 
 Developing a Bayesian regression model to predict audience_score from the following explanatory variables.
 
